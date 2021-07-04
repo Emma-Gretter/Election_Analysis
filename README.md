@@ -53,5 +53,5 @@ Other factors, such as party affiliation could be added to future analysis. If a
 ```voter_party_affilialtion = row[3]```
 
 Then voter turnout by party could be calculated, as well as percentage of vote per party and party with largest percentage of turnout.
-![image](https://user-images.githubusercontent.com/84678564/124396293-e3982880-dcc5-11eb-998d-a27e626cb64b.png)
+
 
